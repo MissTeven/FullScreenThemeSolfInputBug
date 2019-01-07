@@ -1,0 +1,2 @@
+# FullScreenThemeSolfInputBug
+解决全屏模式下的键盘遮盖问题
